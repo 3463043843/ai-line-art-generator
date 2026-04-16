@@ -69,7 +69,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven tool that transform
 4.  **生成并下载**: 点击“生成线稿”，满意后免费下载高清原图
 
 ### ⚙️ 专业的 AI 引擎支持
-*   **Nano Banana Pro**: 适合简约卡通和儿童涂色稿。
+*   **Nano Banana Pro**: 适合简约卡通和儿童涂色稿
 *   **Flux-Kontext**: 专注于写实精细线稿，纹身师首选。
 *   **Seedream 5**: 擅长处理复杂的工笔细节与装饰纹理。
 
