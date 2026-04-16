@@ -82,7 +82,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven tool that transform
 
 <details>
 <summary><strong>如何获得最佳的线稿细节？</strong></summary>
-<p>描述越具体效果越好。建议在提示词中加入：花朵开放程度（如“含苞待放”）、线条粗细、是否有刺等细节特征。</p>
+<p>描述越具体效果越好。建议在提示词中加入：花朵开放程度（如“含苞待放”）、线条粗细、是否有刺等细节特征</p>
 </details>
 
 <details>
