@@ -56,7 +56,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven tool that transform
 | ![简约玫瑰轮廓](https://img.sipingseo.com/file/rose-line-art/89bbBZii.webp) | ![几何简约玫瑰](https://img.sipingseo.com/file/rose-line-art/LScCMC3l.webp) |
 
 #### 3. 装饰与工笔风格 (Decorative & Gongbi)
-融合复古纹样与东方美学，线条繁复精美，适合包装设计与国画临摹。
+融合复古纹样与东方美学，线条繁复精美，适合包装设计与国画临摹
 | 装饰纹样风格 | 工笔白描风格 |
 | :---: | :---: |
 | ![装饰玫瑰线稿](https://img.sipingseo.com/file/rose-line-art/LuMTE5Wr.webp) | ![工笔玫瑰线稿](https://img.sipingseo.com/file/rose-line-art/ImMORhCz.webp) |
