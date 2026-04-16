@@ -87,7 +87,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven tool that transform
 
 <details>
 <summary><strong>该工具是否真的完全免费？</strong></summary>
-<p>是的。我们提供无需注册、无水印的高清线稿生成服务，旨在为全球设计师和创作者赋能。</p>
+<p>是的。我们提供无需注册、无水印的高清线稿生成服务，旨在为全球设计师和创作者赋能</p>
 </details>
 
 ---
