@@ -18,7 +18,7 @@
 The **SPAI Rose Line Art Generator** is a powerful AI-driven tool that transforms text descriptions or reference images into professional-grade rose sketches. Perfect for tattoo artists, digital illustrators, and hobbyists who need precise floral outlines for their creative projects
 
 ### Key Features
-*   **✨ Text-to-Floral Sketch:** Describe your rose (e.g., "blooming rose with sharp thorns") and the AI renders it instantly.
+*   **✨ Text-to-Floral Sketch:** Describe your rose (e.g., "blooming rose with sharp thorns") and the AI renders it instantly
 *   **🎭 Versatile Art Styles:** Choose from **Realistic**, **Minimalist**, **Decorative Art**, and **Traditional Gongbi**.
 *   **⚡ Rapid Production:** High-definition line art generated in 20-30 seconds.
 *   **📦 Commercial Usage:** Generated sketches come with full commercial rights for design projects and merchandise.
