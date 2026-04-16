@@ -50,7 +50,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven tool that transform
 | ![写实玫瑰线稿](https://img.sipingseo.com/file/rose-line-art/eGHn5qag.webp) | ![写实细节玫瑰](https://img.sipingseo.com/file/rose-line-art/WMG7EGwe.webp) |
 
 #### 2. 简约艺术风格 (Minimalist Style)
-线条干净利落，形态优雅概括，适合 Logo 设计、品牌标识及极简装饰画。
+线条干净利落，形态优雅概括，适合 Logo 设计、品牌标识及极简装饰画
 | 示例 1 | 示例 2 |
 | :---: | :---: |
 | ![简约玫瑰轮廓](https://img.sipingseo.com/file/rose-line-art/89bbBZii.webp) | ![几何简约玫瑰](https://img.sipingseo.com/file/rose-line-art/LScCMC3l.webp) |
