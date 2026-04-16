@@ -41,7 +41,7 @@ The **SPAI Rose Line Art Generator** is a powerful AI-driven tool that transform
 
 ### 🎨 风格效果展示 (Style Showcase)
 
-我们的 AI 模型可以处理多种复杂的玫瑰花形态与风格：
+我们的 AI模型可以处理多种复杂的玫瑰花形态与风格：
 
 #### 1. 写实玫瑰风格 (Realistic Style)
 精准刻画花瓣纹理、花萼结构和枝叶细节，是纹身设计与专业插画的理想选择
